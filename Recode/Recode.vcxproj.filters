@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Quelldateien">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Ressourcendateien">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Headerdateien\Memory">
+      <UniqueIdentifier>{35a4e085-cba0-44f2-ba92-4672e090b51f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Memory">
+      <UniqueIdentifier>{63812c4f-12a0-4700-a355-b7d469f9a47f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Game">
+      <UniqueIdentifier>{9eb550a6-a9c3-430f-9d6f-6db7d4b62d4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Game">
+      <UniqueIdentifier>{c4435dcc-d7a6-4c00-914c-471c9519d627}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Globals">
+      <UniqueIdentifier>{fa5dc062-fdbe-467a-aa6b-12f4a78c3d56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Globals">
+      <UniqueIdentifier>{daffea5e-5218-459d-84c2-c5217aaf8b75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Log">
+      <UniqueIdentifier>{a9db44b9-efe3-4c7f-9609-a0d39bb1bb5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Log">
+      <UniqueIdentifier>{b3960920-9b52-43ff-8c9b-0fcad796ac7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\SDK">
+      <UniqueIdentifier>{a9a22d5f-3808-48fc-9b9e-7b2d247a11f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\SDK">
+      <UniqueIdentifier>{fd1dbfeb-8533-47b3-80de-64f7744d2ae0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\SDK\LocalPlayer">
+      <UniqueIdentifier>{e5507175-5697-46a8-8618-fb629269647d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\SDK\Entity">
+      <UniqueIdentifier>{b71292c6-66b8-460b-ac76-94e5cb99dd45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\SDK\Math">
+      <UniqueIdentifier>{fb04191b-063f-417b-8aea-9c3e5846138e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\SDK\Movement">
+      <UniqueIdentifier>{1b2ccc7c-9b40-43e3-9567-945afc49a51a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\SDK\LocalPlayer">
+      <UniqueIdentifier>{8d88bdc1-fba9-409d-bc92-5e4bd9fdec06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\SDK\Entity">
+      <UniqueIdentifier>{63fdf273-de22-451f-a8bf-d4216c5b17e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\SDK\Math">
+      <UniqueIdentifier>{73cc3a5f-ea50-4ab6-99cd-ff7b1cee7817}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\SDK\Movement">
+      <UniqueIdentifier>{bae841ff-e62b-458c-82c5-d01b05659bf4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Worker">
+      <UniqueIdentifier>{8c0b317e-7c64-41be-ac77-c10683f85dc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Worker">
+      <UniqueIdentifier>{0e1256db-e94c-4da3-a5bd-f13b2f414653}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\CVars">
+      <UniqueIdentifier>{7a79201c-5520-4905-896e-e0db7689522d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\CVars">
+      <UniqueIdentifier>{b7e84492-4b7d-4658-8e5a-8dc5366fff3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Config">
+      <UniqueIdentifier>{269d6e53-1781-4011-9d8f-bd548a7c8a8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Config">
+      <UniqueIdentifier>{87cbfdb4-ddf0-4d9e-ae3e-b7d4bd00a86f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Offsets">
+      <UniqueIdentifier>{437e58dc-f634-41fb-b296-ed1663e0d906}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Feature">
+      <UniqueIdentifier>{049f6994-b3dc-4c73-afe1-06526938cc02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Feature">
+      <UniqueIdentifier>{94c6127f-0451-4422-85a6-a893453f09f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Feature\Bhop">
+      <UniqueIdentifier>{98af8b63-c25b-4b62-a7aa-1a917e605c9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Feature\Bhop">
+      <UniqueIdentifier>{1a98de87-5b25-4c93-9ae7-afcc185c0150}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Feature\Handler">
+      <UniqueIdentifier>{18b9fd35-dc82-453c-aa96-88192c486eaa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Feature\Handler">
+      <UniqueIdentifier>{c294f5ba-6ee5-4548-b868-f4b2dcc95fbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Includings">
+      <UniqueIdentifier>{988aada2-a7df-40c1-bbc7-feec80789333}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\SDK\CClient">
+      <UniqueIdentifier>{9bec23b8-ec52-4ae5-8bae-f6a05293a923}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\SDK\CClient">
+      <UniqueIdentifier>{a5e18831-c8fc-454f-b16a-93a3dbb9ea02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Feature\Trigger">
+      <UniqueIdentifier>{4d6ac38e-39db-44ca-a1c1-c7a7f46206bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Feature\Trigger">
+      <UniqueIdentifier>{1123d876-6217-422c-9370-6f7151fe9343}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Feature\Glow">
+      <UniqueIdentifier>{3d279df8-09ba-44d5-adc7-3333b3842d5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Feature\Glow">
+      <UniqueIdentifier>{f9d150eb-ab23-46a0-b21d-183a94b2c26d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Quelldateien\Feature\RCS">
+      <UniqueIdentifier>{0325527f-c46f-4193-b44e-50e80aeb0b19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Feature\RCS">
+      <UniqueIdentifier>{bcaaa96a-acc3-43a8-a0e6-4f8f5ca0baf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headerdateien\Utils">
+      <UniqueIdentifier>{2069070b-b33e-44fe-908f-9c85f159de3e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="targetver.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="Memory.h">
+      <Filter>Headerdateien\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Headerdateien\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Globals.h">
+      <Filter>Headerdateien\Globals</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>Headerdateien\Log</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleColors.h">
+      <Filter>Headerdateien\Log</Filter>
+    </ClInclude>
+    <ClInclude Include="Localplayer.h">
+      <Filter>Headerdateien\SDK\LocalPlayer</Filter>
+    </ClInclude>
+    <ClInclude Include="Worker.h">
+      <Filter>Headerdateien\Worker</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Headerdateien\Config</Filter>
+    </ClInclude>
+    <ClInclude Include="CVars.h">
+      <Filter>Headerdateien\CVars</Filter>
+    </ClInclude>
+    <ClInclude Include="Offsets.h">
+      <Filter>Headerdateien\Offsets</Filter>
+    </ClInclude>
+    <ClInclude Include="Bhop.h">
+      <Filter>Headerdateien\Feature\Bhop</Filter>
+    </ClInclude>
+    <ClInclude Include="Handler.h">
+      <Filter>Headerdateien\Feature\Handler</Filter>
+    </ClInclude>
+    <ClInclude Include="Vektor.h">
+      <Filter>Headerdateien\SDK\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Headerdateien\SDK\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="Basics.h">
+      <Filter>Headerdateien\Includings</Filter>
+    </ClInclude>
+    <ClInclude Include="CClient.h">
+      <Filter>Headerdateien\SDK\CClient</Filter>
+    </ClInclude>
+    <ClInclude Include="Trigger.h">
+      <Filter>Headerdateien\Feature\Trigger</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>Headerdateien\SDK\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Glow.h">
+      <Filter>Headerdateien\Feature\Glow</Filter>
+    </ClInclude>
+    <ClInclude Include="Movement.h">
+      <Filter>Headerdateien\SDK\Movement</Filter>
+    </ClInclude>
+    <ClInclude Include="RCS.h">
+      <Filter>Headerdateien\Feature\RCS</Filter>
+    </ClInclude>
+    <ClInclude Include="XorStr.h">
+      <Filter>Headerdateien\Utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Recode.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="Memory.cpp">
+      <Filter>Quelldateien\Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Quelldateien\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Globals.cpp">
+      <Filter>Quelldateien\Globals</Filter>
+    </ClCompile>
+    <ClCompile Include="Log.cpp">
+      <Filter>Quelldateien\Log</Filter>
+    </ClCompile>
+    <ClCompile Include="Worker.cpp">
+      <Filter>Quelldateien\Worker</Filter>
+    </ClCompile>
+    <ClCompile Include="Config.cpp">
+      <Filter>Quelldateien\Config</Filter>
+    </ClCompile>
+    <ClCompile Include="CVars.cpp">
+      <Filter>Quelldateien\CVars</Filter>
+    </ClCompile>
+    <ClCompile Include="Bhop.cpp">
+      <Filter>Quelldateien\Feature\Bhop</Filter>
+    </ClCompile>
+    <ClCompile Include="Handler.cpp">
+      <Filter>Quelldateien\Feature\Handler</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Quelldateien\SDK\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="Localplayer.cpp">
+      <Filter>Quelldateien\SDK\LocalPlayer</Filter>
+    </ClCompile>
+    <ClCompile Include="CClient.cpp">
+      <Filter>Quelldateien\SDK\CClient</Filter>
+    </ClCompile>
+    <ClCompile Include="Trigger.cpp">
+      <Filter>Quelldateien\Feature\Trigger</Filter>
+    </ClCompile>
+    <ClCompile Include="Glow.cpp">
+      <Filter>Quelldateien\Feature\Glow</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.cpp">
+      <Filter>Quelldateien\SDK\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="RCS.cpp">
+      <Filter>Quelldateien\Feature\RCS</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
